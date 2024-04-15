@@ -1,3 +1,6 @@
 dash_bootstrap_components,
+dash,
 plotly-express, 
 jupyter-dash,
+pandas_datareader,
+yfinance
