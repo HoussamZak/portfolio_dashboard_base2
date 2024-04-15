@@ -1,0 +1,3 @@
+dash_bootstrap_components,
+plotly-express, 
+jupyter-dash,
