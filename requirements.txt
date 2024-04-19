@@ -1,5 +1,8 @@
-dash,
-plotly-express, 
-jupyter-dash,
-pandas_datareader,
-yfinance
+dash==2.11.1,
+dash-bootstrap-components==1.5.0,
+dash-core-components==2.0.0,
+dash-html-components==2.0.0,
+dash-table==5.0.0,
+plotly==5.11.0,
+jupyter-dash==0.4.2,
+yfinance==0.2.12,
