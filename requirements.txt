@@ -1,4 +1,4 @@
-dash_bootstrap_components,
+dash-bootstrap-components,
 dash,
 plotly-express, 
 jupyter-dash,
