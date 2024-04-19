@@ -1,3 +1,6 @@
+pip install jupyter_dash
+pip install dash_bootstrap_components
+
 #-- Modules & Packages
 import pandas as pd 
 import numpy as np 
