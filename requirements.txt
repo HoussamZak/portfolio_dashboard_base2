@@ -10,3 +10,7 @@ jupyter-dash==0.4.2
 yfinance==0.2.12
 streamlit==1.33.0
 numpy==1.21.6
+
+
+webbrowser
+subprocess
